@@ -12,6 +12,8 @@ Examples of Haskell usage, some only for learning, such as reproducing some of t
 
 #### [Compiling with The Glorious Glasgow Haskell Compilation System](src/ghc/ghc.md)  
 
+#### [Building a Project with Stack](src/using_stack/stack.md)  
+
 
 #### IO
 
