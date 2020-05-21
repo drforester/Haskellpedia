@@ -5,6 +5,13 @@ This example shows how to build a project with stack. Our project in this exampl
 1. [Main.hs](Main.hs)
 2. [Fizzbuzz.hs](Fizzbuzz.hs)  
 
+Create a new stack project named fbtest:  
+
+```
+~$ stack new fbtest
+```
+
+
 Move Main.hs into ./fbtest/app
 Move your other modules, in this case only Fizzbuzz.hs, into ./fbtest/src
 
