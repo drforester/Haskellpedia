@@ -10,6 +10,8 @@ Examples of Haskell usage, some only for learning, such as reproducing some of t
 
 #### [Common Interview Problems Solved in Haskell](src/interview\_probs/interview\_problems.md)  
 
+#### [Compiling with The Glorious Glasgow Haskell Compilation System](src/ghc/ghc.md)  
+
 
 #### IO
 
