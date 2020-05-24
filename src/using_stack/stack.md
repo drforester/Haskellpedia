@@ -68,3 +68,6 @@ Buzz
 
 und so weiter
 
+
+The actual path of the binary executable file fbtest-exe is:  
+```fbtest/.stack-work/dist/x86_64-linux/Cabal-3.0.1.0/build/fbtest-exe``` 
