@@ -71,3 +71,8 @@ und so weiter
 
 The actual path of the binary executable file fbtest-exe is:  
 ```fbtest/.stack-work/dist/x86_64-linux/Cabal-3.0.1.0/build/fbtest-exe``` 
+
+If you want to specify another GHC version from the default, say version 9.0.1, then run this at the command line before building:
+```
+~$ stack config set resolver ghc-9.0.1
+```
